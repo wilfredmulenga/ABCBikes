@@ -1,0 +1,23 @@
+.nav-wrapper{
+    background-color: #7D7D7D;
+}
+.grey-color{
+    color:  #7D7D7D;
+}
+
+.tabs tab a{
+    color:   #7D7D7D;
+}
+.tabs .tab a:hover,.tabs .tab a.active {
+	background-color:#FFF;
+	color:#7D7D7D;
+}
+.tabs .tab.disabled a,.tabs .tab.disabled a:hover {
+	color:rgba(102,147,153,0.7);	
+}
+.tabs .indicator {
+	background-color:#7D7D7D;
+}
+.promotion-card{
+    height:177px;
+}
